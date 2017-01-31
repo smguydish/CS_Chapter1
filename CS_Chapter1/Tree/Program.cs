@@ -10,6 +10,7 @@ namespace Tree
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("   X\n  XXX\n XXXXX\nXXXXXXX\n   X");
         }
     }
 }

@@ -1,0 +1,6 @@
+C:\Users\eahscs\Documents\GitHub\CS_Chapter1\CS_Chapter1\Tree\bin\Debug\Tree.exe.config
+C:\Users\eahscs\Documents\GitHub\CS_Chapter1\CS_Chapter1\Tree\bin\Debug\Tree.exe
+C:\Users\eahscs\Documents\GitHub\CS_Chapter1\CS_Chapter1\Tree\bin\Debug\Tree.pdb
+C:\Users\eahscs\Documents\GitHub\CS_Chapter1\CS_Chapter1\Tree\obj\Debug\Tree.csprojResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\CS_Chapter1\CS_Chapter1\Tree\obj\Debug\Tree.exe
+C:\Users\eahscs\Documents\GitHub\CS_Chapter1\CS_Chapter1\Tree\obj\Debug\Tree.pdb
