@@ -10,6 +10,7 @@ namespace Quotation
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("To give anything less than your best is to sacrifice the gift ''Steve Prefontaine'' ");
         }
     }
 }
